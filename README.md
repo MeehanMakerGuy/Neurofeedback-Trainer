@@ -6,3 +6,4 @@ This respository will contain:
     Circuit design files (EagleCAD, Gerber, etc), 
 
 4/20/15: it is empty now but I'll be filling it as the build progresses;
+4/23/15: uploaded Arduino sketch for HC06 setup
